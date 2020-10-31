@@ -11,7 +11,7 @@
     "deploy": "git push heroku master"
   },
   "keywords": [],
-  "author": "Thomas `tomatao` Hudspith-Tatham <iammotivated@gmail.com>",
+  "author": "Rennie Bevineau <rsbevineau@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
@@ -19,6 +19,8 @@
     "express": "^4.16.4",
     "helmet": "^3.15.0",
     "morgan": "^1.9.1",
+    "uuid": "^8.3.1",
+    "valid-url": "^1.0.9",
     "winston": "^3.3.3"
   },
   "devDependencies": {
