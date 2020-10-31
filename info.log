@@ -76,3 +76,20 @@
 {"message":{},"level":"error"}
 {"message":{},"level":"error"}
 {"message":"Invalid rating 'undefined' supplied","level":"error"}
+{"message":"Invalid rating 'undefined' supplied","level":"error"}
+{"message":"Invalid rating 'undefined' supplied","level":"error"}
+{"message":"Invalid rating 'undefined' supplied","level":"error"}
+{"message":"Invalid rating 'undefined' supplied","level":"error"}
+{"message":"Invalid rating 'undefined' supplied","level":"error"}
+{"message":"Invalid rating 'undefined' supplied","level":"error"}
+{"message":"Invalid rating 'undefined' supplied","level":"error"}
+{"message":"Invalid rating 'undefined' supplied","level":"error"}
+{"message":"Invalid url 'www.rennie.com' supplied","level":"error"}
+{"message":"Bookmark with id a610d6d8-4e0c-4e48-8360-998964c0f48b created","level":"info"}
+{"message":"Unexpected token , in JSON at position 10","level":"error"}
+{"message":"Bookmark with id 36c2907b-a74d-4804-9394-a1dfd13c8444 created","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Unexpected token } in JSON at position 20","level":"error"}
+{"message":"url is required","level":"error"}

@@ -15,9 +15,8 @@ router
   .post(bodyParser, (req, res) => {
     for (const field of ['title', 'url', 'rating']) {
       if (!req.body[field]) {
-        // logger.error(req.body)
-        console.log(req.body)
-        // res.status(400).send(`'${field}' is required`)
+        logger.error(`${field} is required`)
+        return res.status(400).send(`'${field}' is required`)
       }
     }
     const { title, url, description, rating } = req.body
