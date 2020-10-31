@@ -8,7 +8,7 @@ const bodyParser = express.json()
 
 //route handler for GET /bookmarks
 router
-.route('/bookmarks')
+.route('/')
   .get((req, res) => {
     res.json(store.bookmarks)
   })
@@ -43,7 +43,7 @@ router
   })
 
 router
-  .route('/bookmarks/:bookmark_id')
+  .route('/:bookmark_id')
   .get((req, res) => {
     const { bookmark_id } = req.params
 

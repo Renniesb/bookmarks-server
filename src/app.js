@@ -19,11 +19,7 @@ app.use(validateBearerToken)
 
 
 
-app.get('/', (req, res) => {
-  res.send('Hello, world!')
-})
-
-app.use('api/', apiRouter)
+app.use(`/api/bookmarks`,apiRouter)
 
 app.use(errorHandler);
 
