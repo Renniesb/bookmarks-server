@@ -26,3 +26,53 @@
 {"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
 {"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
 {"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Bookmark with id 1 not found.","level":"error"}
+{"message":"Bookmark with id 187b887c-3817-43ca-af2b-2b232b3c21d9 deleted.","level":"info"}
+{"message":"Bookmark with id 187b887c-3817-43ca-af2b-2b232b3c21d9 not found.","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Cannot set headers after they are sent to the client","level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":"Invalid rating 'undefined' supplied","level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":"Invalid rating 'undefined' supplied","level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":"Invalid rating 'undefined' supplied","level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":"Invalid rating 'undefined' supplied","level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":"Invalid rating 'undefined' supplied","level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":"Invalid rating 'undefined' supplied","level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":{},"level":"error"}
+{"message":"Invalid rating 'undefined' supplied","level":"error"}
